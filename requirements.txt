@@ -1,4 +1,4 @@
-PyYAML==3.11
+PyYAML==5.1
 cached-property==1.2.0
 docker-py==1.10.3
 dockerpty==0.4.1
